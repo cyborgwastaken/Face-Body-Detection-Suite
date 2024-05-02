@@ -73,7 +73,9 @@ For any questions or feedback, please contact the project contributors.
 
 Enjoy exploring AI & Machine Learning with us!
 
-### Installation Guide for Face Recognition Package
+
+
+# Installation Guide for Face Recognition Package
 
 Having trouble installing the Face Recognition package? Follow these three straightforward steps:
 
