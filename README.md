@@ -1,6 +1,7 @@
 # Face-Body-Detection-Suite - AI & Machine Learning Project
 
-Welcome to the AI & Machine Learning project developed by Group of 1st Year students from VIT Bhopal University. Under the Guidance of Dr. Jayanthi J.
+Welcome to the AI & Machine Learning project developed by Group of 1st Year students from VIT Bhopal University. 
+Under the Guidance of Dr. Jayanthi J.
 
 **Team Members:**
 1. Ayushman Das
