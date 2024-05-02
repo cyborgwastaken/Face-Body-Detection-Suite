@@ -119,6 +119,12 @@ pip install (copy and paste the file name here)
 pip install face-recognition
 ```
 
+**Step 4: Install OpenCV-Python**
+
+```bash
+pip install opencv-python
+```
+
 ---
 
 That's it! You're now ready to use the Face Recognition package. If you encounter any further issues, feel free to reach out for assistance. Happy coding! 🚀
