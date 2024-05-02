@@ -1,3 +1,7 @@
+Got it! Here's the updated document with the names of the six team members:
+
+---
+
 # Face-Body-Detection-Suite - AI & Machine Learning Project
 
 Welcome to the AI & Machine Learning project developed by Group of 1st Year students from VIT Bhopal University. This project comprises three sub-projects focusing on different aspects of computer vision and artificial intelligence:
@@ -69,6 +73,14 @@ The face extractor sub-project focuses on detecting and extracting faces from im
 
 Feel free to explore each sub-project's directory for detailed implementation and additional notes.
 
+**Team Members:**
+1. Ayushman Das
+2. Aarushi Sharma
+3. Mani Shreena
+4. Jayant Singh Rawat
+5. Vishal Soni
+6. Priiyansh Vaish
+
 For any questions or feedback, please contact the project contributors.
 
 Enjoy exploring AI & Machine Learning with us!
@@ -128,5 +140,4 @@ pip install opencv-python
 ---
 
 That's it! You're now ready to use the Face Recognition package. If you encounter any further issues, feel free to reach out for assistance. Happy coding! 🚀
-
 
