@@ -32,7 +32,7 @@ Then, navigate to the downloaded folder in your terminal and install using:
 pip install (copy and paste the file name here)
 ```
 
-**Note:** The `.whl` Dlib files with `cp37` signify CPython 3.7, `cp38` indicates CPython 3.8, and so forth.
+**Note:** The `.whl` Dlib files with `cp37` signify Python 3.7, `cp38` indicates Python 3.8, and so forth.
 
 ---
 
