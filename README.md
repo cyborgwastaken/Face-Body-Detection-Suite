@@ -65,7 +65,7 @@ The face extractor sub-project focuses on detecting and extracting faces from im
 ## Requirements:
 - Python 3.11
 - OpenCV
-- face_recognition
+- face-recognition
 - Mediapipe
 - Haarcascade
 
