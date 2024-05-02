@@ -1,10 +1,15 @@
-Got it! Here's the updated document with the names of the six team members:
-
----
-
 # Face-Body-Detection-Suite - AI & Machine Learning Project
 
 Welcome to the AI & Machine Learning project developed by Group of 1st Year students from VIT Bhopal University. This project comprises three sub-projects focusing on different aspects of computer vision and artificial intelligence:
+**Team Members:**
+1. Ayushman Das
+2. Vipransh Ojha
+3. Divit Singhania
+4. Jayant Singh Rawat
+5. Aarushi Sharma
+6. Mani Shreena
+7. Vishal Soni
+8. Priyansh Vaish
 
 1. **Facial Recognition** 👤
 2. **Body Movement & Posture Detection** 🏃‍♂️
@@ -72,16 +77,6 @@ The face extractor sub-project focuses on detecting and extracting faces from im
 ---
 
 Feel free to explore each sub-project's directory for detailed implementation and additional notes.
-
-**Team Members:**
-1. Ayushman Das
-2. Vipransh Ojha
-3. Divit Singhania
-4. Jayant Singh Rawat
-5. Aarushi Sharma
-6. Mani Shreena
-7. Vishal Soni
-8. Priyansh Vaish
 
 For any questions or feedback, please contact the project contributors.
 
