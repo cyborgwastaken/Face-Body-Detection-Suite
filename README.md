@@ -1,4 +1,5 @@
-# Face-Body-Detection-Suite - AI & Machine Learning Project
+# Face-Body-Detection-Suite
+AI & Machine Learning Project
 
 Welcome to the AI & Machine Learning project developed by Group of 1st Year students from VIT Bhopal University. 
 
