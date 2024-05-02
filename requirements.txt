@@ -1,0 +1,5 @@
+opencv-python~=4.9.0.80
+mediapipe~=0.10.11
+cmake~=3.29.2
+dlib~=19.24.1
+face-recognition~=1.3.0
