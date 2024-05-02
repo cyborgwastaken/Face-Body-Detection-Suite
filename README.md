@@ -75,11 +75,13 @@ Feel free to explore each sub-project's directory for detailed implementation an
 
 **Team Members:**
 1. Ayushman Das
-2. Aarushi Sharma
-3. Mani Shreena
+2. Vipransh Ojha
+3. Divit Singhania
 4. Jayant Singh Rawat
-5. Vishal Soni
-6. Priiyansh Vaish
+5. Aarushi Sharma
+6. Mani Shreena
+7. Vishal Soni
+8. Priyansh Vaish
 
 For any questions or feedback, please contact the project contributors.
 
