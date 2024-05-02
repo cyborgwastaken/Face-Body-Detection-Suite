@@ -74,18 +74,6 @@ Feel free to explore each sub-project's directory for detailed implementation an
 
 For any questions or feedback, please contact the project contributors.
 
-Under the Guidance of Dr. Jayanthi J.
-
-**Team Members:**
-1. Ayushman Das
-2. Vipransh Ojha
-3. Divit Singhania
-4. Jayant Singh Rawat
-5. Aarushi Sharma
-6. Mani Shreena
-7. Vishal Soni
-8. Priyansh Vaish
-
 Enjoy exploring AI & Machine Learning with us!
 
 
