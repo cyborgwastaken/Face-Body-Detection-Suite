@@ -1,7 +1,5 @@
 # Face-Body-Detection-Suite
-AI & Machine Learning Project
-
-Welcome to the AI & Machine Learning project developed by Group of 1st Year students from VIT Bhopal University. 
+AI & Machine Learning Project developed by Group of 1st Year students from VIT Bhopal University. 
 
 ---
 This project comprises three sub-projects focusing on different aspects of computer vision and artificial intelligence:
